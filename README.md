@@ -1,5 +1,5 @@
 
-[![N|Solid]([https://i.ibb.co/5c5VhhQ/zuiersaien.png](https://i.ibb.co/ph6J1F1/image-2022-08-03-225200047.png))](https://my-profile-lake.vercel.app)
+[![N|Solid]([https://i.ibb.co/ph6J1F1/image-2022-08-03-225200047.png])](https://my-profile-lake.vercel.app)
 
 ## HEY 
 I'm Will ,a 20 years old web developer from Arequipa , who loves create things for the internet. I mainly code in JavaScript and Python, but I am always learning. My most recent project  "[activodigital.pe ](https://activodigital.pe )", which is a website dedicated to the purchase and sale of usdt in Peru
