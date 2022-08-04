@@ -1,5 +1,5 @@
 
-[![N|Solid](https://i.ibb.co/5c5VhhQ/zuiersaien.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://i.ibb.co/5c5VhhQ/zuiersaien.png)](https://my-profile-lake.vercel.app)
 
 ## HEY 
 I'm Will ,a 20 years old web developer from arequipa
@@ -20,7 +20,8 @@ I'm Will ,a 20 years old web developer from arequipa
 
 ## CONTACT
 
-you can click my "[website](https://my-profile-lake.vercel.app)"
-send me an email to zuiersadien@gmail.com or etaco@unsa.edu.pe
+- you can click my "[website](https://my-profile-lake.vercel.app)"
+
+- send me an email to zuiersadien@gmail.com or etaco@unsa.edu.pe
 
 
